@@ -1,1 +1,3 @@
-# Image-Gallery-very-first-
+# Image Gallery
+
+Это было дз по уроку "Взаимодействие с сервером"
